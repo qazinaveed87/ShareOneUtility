@@ -1,0 +1,16 @@
+PODS:
+  - ShareOneUtility (0.1.0)
+
+DEPENDENCIES:
+  - ShareOneUtility (from `../`)
+
+EXTERNAL SOURCES:
+  ShareOneUtility:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ShareOneUtility: 37f61240ddbf9e57c1e50b86c44ba462ee54927b
+
+PODFILE CHECKSUM: e2a40d6c9f61292bff7aa039b984a44fe00c39b3
+
+COCOAPODS: 1.8.4

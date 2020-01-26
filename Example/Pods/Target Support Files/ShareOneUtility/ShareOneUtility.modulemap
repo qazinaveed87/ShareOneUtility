@@ -1,0 +1,6 @@
+framework module ShareOneUtility {
+  umbrella header "ShareOneUtility-umbrella.h"
+
+  export *
+  module * { export * }
+}

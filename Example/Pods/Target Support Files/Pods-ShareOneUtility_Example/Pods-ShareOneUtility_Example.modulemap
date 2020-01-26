@@ -1,0 +1,6 @@
+framework module Pods_ShareOneUtility_Example {
+  umbrella header "Pods-ShareOneUtility_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

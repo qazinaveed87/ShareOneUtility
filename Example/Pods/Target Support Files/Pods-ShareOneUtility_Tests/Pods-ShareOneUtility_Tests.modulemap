@@ -1,0 +1,6 @@
+framework module Pods_ShareOneUtility_Tests {
+  umbrella header "Pods-ShareOneUtility_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
